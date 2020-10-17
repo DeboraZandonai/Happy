@@ -1,0 +1,113 @@
+:root {
+  --background-primary: #ff669d;
+  --background-hover: #ffe0e9;
+  --background-yellow: #ffd666;
+  --background-red: #ec3030;
+  --background-red-hover: #af0f0f;
+}
+
+#page-map {
+  width: 100vw;
+  height: 100vh;
+
+  position: relative;
+  display: flex;
+}
+
+#page-map aside {
+  width: 440px;
+  /* background: linear-gradient(329.54deg, #96feff 0%, #38d9db 100%); */
+  /* background: linear-gradient(329.54deg, #ffe9ae 0%, #ffd666 100%); */
+  background: rgb(41, 41, 46);
+  padding: 80px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#page-map aside h2 {
+  color: var(--background-yellow);
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 42px;
+  margin-top: 64px;
+}
+
+#page-map aside p {
+  line-height: 28px;
+  margin-top: 24px;
+}
+
+#page-map aside footer {
+  display: flex;
+  flex-direction: column;
+  line-height: 24px;
+}
+
+#page-map aside footer strong {
+  font-weight: 800;
+}
+
+#page-map .leaflet-container {
+  z-index: 5;
+}
+
+#page-map .create-orphanage {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+
+  z-index: 10;
+
+  width: 64px;
+  height: 64px;
+  background: var(--background-red);
+  border-radius: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: background-color 0.2s;
+}
+
+#page-map .create-orphanage:hover {
+  background: var(--background-red-hover);
+}
+
+#page-map .map-popup .leaflet-popup-content-wrapper {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.01);
+}
+
+#page-map .map-popup .leaflet-popup-content {
+  color: var(--background-yellow);
+  font-size: 20px;
+  font-weight: bold;
+  margin: 8px 12px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#page-map .map-popup .leaflet-popup-content a {
+  width: 40px;
+  height: 40px;
+  background: var(--background-red);
+  box-shadow: 17.2868px 27.6589px 41.488px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page-map .map-popup .leaflet-popup-content a:hover {
+  background: var(--background-red-hover);
+}
+
+#page-map .map-popup .leaflet-popup-tip-container {
+  display: none;
+}
