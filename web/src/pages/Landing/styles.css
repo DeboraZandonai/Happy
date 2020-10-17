@@ -9,7 +9,6 @@
 #page-landing {
   width: 100vw;
   height: 100vh;
-  /* background: linear-gradient(329.54deg, #96feff 0%, #38d9db 100%); */
   background-image: url("../../images/edited.svg");
   background-size: cover;
   background-repeat: no-repeat;

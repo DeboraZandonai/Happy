@@ -1,10 +1,10 @@
 import Image from "../models/Image";
 
 export default {
-  render(image: Image) {
+  render(images: Image) {
     return {
-      id: image.id,
-      url: `http://localhost:3333/uploads/${image.path}`,
+      id: images.id,
+      url: `http://localhost:3333/uploads/${images.path}`,
     };
   },
   renderMany(images: Image[]) {

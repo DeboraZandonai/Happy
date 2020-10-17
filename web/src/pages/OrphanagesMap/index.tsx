@@ -5,7 +5,6 @@ import { FiPlus, FiArrowRight } from "react-icons/fi";
 import "leaflet/dist/leaflet.css";
 import Leaflet from "leaflet";
 import "./styles.css";
-
 import mapMarker from "../../images/local2.svg";
 import api from "../../services/api";
 
