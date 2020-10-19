@@ -83,6 +83,12 @@ $ npm install
 $ yarn start
 ```
 
+#### ou
+
+```bash
+$ npm start
+```
+
 Depois de fazer isso, será aberto o metro bundler no seu navegador. Algumas opções para rodar o Aplicativo:
 
 #### 1 - Emulador Android
