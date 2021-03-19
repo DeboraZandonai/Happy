@@ -11,13 +11,13 @@
 </h1>
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/github/web.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -28,17 +28,17 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <li>Cadastrar Orfanatos;</li>
+  <li>Register Orphanages;</li>
   <br />
-  <li>Realizar a busca de Orfanatos utilizando o mapa.</li>
+  <li>Perform the search for Orphanages using the map.</li>
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -47,44 +47,44 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-<em>Lembre-se de realizar o mesmo procedimento da pasta backend, para ter o backend rodando conjuntamente.</em>
+<em>Remember to perform the same procedure as the backend folder, to have the backend running together.</em>
 
-**Obs: Isso só precisa ser realizado apenas uma vez para todos.**
+**Note: This only needs to be done once for everyone.**
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Happy.git
 ```
 
-### Navegue até a pasta do projeto web
+### Navigate to the web project folder
 
 ```bash
 $ cd Happy/web
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm install
 ```
 
-# Rode o projeto
+# Run the project
 
 ```bash
 $ yarn start
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm start
