@@ -4,7 +4,7 @@
 
 ## 💻 Project proposal
 
-Happy is an application that consists of connecting people to nearby Orphanages, in order to help people find nearby institutions, so that they can visit the children, make donations and possibly adopt them. This project is all about creating an MVP including the NodeJS, React and ReactNative stack ... Using a CRUD system with rest api architecture on the backend and frontend, web and mobile ([learn more] (https: // nextlevelweek. with/)).
+Happy is an application that consists of connecting people to nearby Orphanages, in order to help people find nearby institutions, so that they can visit the children, make donations and possibly adopt them. This project is all about creating an MVP including the NodeJS, React and ReactNative stack ... Using a CRUD system with rest api architecture on the backend and frontend, web and mobile [learn more](https://nextlevelweek).
 
 ## 🧭 Index
 
