@@ -2,19 +2,19 @@
 
 ![Badge](/github/logo.png)
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-Happy é uma aplicação que consiste em interligar pessoas a Orfanatos próximos, com o intuito de ajudar pessoas a encontrarem instituições próximas, para que assim possam visitar as crianças, realizar doações e possivelmente adotá-las. Este projeto resume-se a criação de um MVP incluindo a stack NodeJS, React e ReactNative... Utilizando um sistema de CRUD com arquitetura rest api no backend e frontend, web e mobile ([saiba mais](https://nextlevelweek.com/)).
+Happy is an application that consists of connecting people to nearby Orphanages, in order to help people find nearby institutions, so that they can visit the children, make donations and possibly adopt them. This project is all about creating an MVP including the NodeJS, React and ReactNative stack ... Using a CRUD system with rest api architecture on the backend and frontend, web and mobile ([learn more] (https: // nextlevelweek. with/)).
 
-## 🧭 Índice
+## 🧭 Index
 
 - [Backend](./backend)
 - [Web](./web)
 - [Mobile](./mobile)
 
-<h2>💡 Deseja contribuir com esse projeto?</h2>
+<h2>💡 Do you want to contribute to this project?</h2>
 
-### Faça um fork utilizando a linha de comando oficial do GitHub
+### Fork using the official GitHub command line
 
 ```bash
 $ gh repo fork DeboraZandonai/Happy
@@ -23,33 +23,31 @@ $ gh repo fork DeboraZandonai/Happy
 ### Clone o seu fork e substitua o campo caminho por backend, web ou mobile
 
 ```bash
-$ git clone url-do-seu-fork && cd Happy/caminho
+$ git clone url-do-seu-fork && cd Happy/path
 ```
 
-### Crie uma branch com as suas features
+### Crie uma filial com suas características
 
 ```bash
-$ git checkout -b minha-feature
+$ git checkout -b my-feature
 ```
 
-### Faça um commit das suas alterações
+### Commit your changes
 
 ```bash
 $ git commit -m 'feat: suas alterações'
 ```
 
-### Envie o código para a sua branch remota
+### Send the code to a remote branch
 
 ```bash
 $ git push origin minha-feature
 ```
 
-Depois que a sua pull request for aceita você pode deletar a sua branch.
+After your pull request is accepted you can delete your branch.
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<br />
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
