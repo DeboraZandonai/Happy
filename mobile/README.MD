@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Happy Mobile 🚀</h1>
 <h1 align=center>
-  <br/>
   <div align=center>
   <img src="https://img.shields.io/badge/framework-react%20native-blue" alt="Reactjs"/>
 
@@ -10,13 +9,13 @@
   <div>
 </h1>
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/github/mobile.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -28,17 +27,17 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <li>Cadastrar Orfanatos;</li>
+  <li>Register Orphanages;</li>
   <br />
-  <li>Realizar a busca de Orfanatos utilizando o mapa.</li>
+  <li>Perform the search for Orphanages using the map.</li>
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -48,67 +47,67 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-<em>Lembre-se de realizar o mesmo procedimento da pasta backend, para ter o backend rodando conjuntamente.</em>
+<em>Remember to perform the same procedure as the backend folder, to have the backend running together.</em>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Happy.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd Happy/mobile
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm install
 ```
 
-# Rode o projeto
+# Run the project
 
 ```bash
 $ yarn start
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm start
 ```
 
-Depois de fazer isso, será aberto o metro bundler no seu navegador. Algumas opções para rodar o Aplicativo:
+After doing this, the metro bundler will open in your browser. Some options for running the Application:
 
-#### 1 - Emulador Android
+#### 1 - Android Emulator
 
-Na página do metro bundler, clique em "Run on Android device/emulator" e espere carregar. Tenha em mente que é necessário ter passado pelo processo de instalação do android sdk, etc.
+On the metro bundler page, click on "Run on Android device / emulator" and wait for it to load. Keep in mind that it is necessary to have gone through the process of installing the android sdk, etc.
 
-#### 2 - Emulador IOS
+#### 2 - IOS Emulator
 
-Na página do metro bundler, clique em "Run on iOS simulator" e espere carregar.
+On the metro bundler page, click on "Run on iOS simulator" and wait to load.
 
-#### 3 - Seu smartphone
+#### 3 - Your smartphone
 
-Baixe o aplicativo do Expo:
+Download the Expo app:
 
 - [iOS](https://itunes.apple.com/app/apple-store/id982107779)
 - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 
-Depois de baixar, volte a página do metro bundler e escaneie o QR Code com o app do Expo.
+After downloading, go back to the metro bundler page and scan the QR Code with the Expo app.
 
-<em>Para mais detalhes de como rodar o app em um emulador ou em seu dispositivo físico, clique <a href="https://react-native.rocketseat.dev/">aqui</a>.</em>
+<em>For more details on how to run the app on an emulator or on your physical device, click <a href="https://react-native.rocketseat.dev/">on here</a>.</em>
 <br />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
