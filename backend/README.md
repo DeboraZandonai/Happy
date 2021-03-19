@@ -7,7 +7,7 @@
 </h1>
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 <ul>
   <li><h3><a href="https://nodejs.org/pt-br/">NodeJS</a></h3></li>
@@ -20,7 +20,7 @@
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -29,45 +29,43 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Happy.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd Happy/backend
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm install
 ```
 
-# Rode o projeto
+# Run the project
 
 ```bash
 $ yarn start
 ```
 
-#### ou
+#### or
 
 ```bash
 $ npm start
 ```
-
-<br />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
