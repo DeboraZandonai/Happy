@@ -90,6 +90,4 @@ $ yarn start
 $ npm start
 ```
 
-<br />
-
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
